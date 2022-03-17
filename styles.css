@@ -1,0 +1,13 @@
+.container-fluid {
+  display: flex;
+  height: 100vh;
+  border: 2px solid gold;
+  flex-direction: column;
+}
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 25vh;
+  border: 2px solid white;
+}
